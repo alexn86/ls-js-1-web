@@ -1,2 +1,2 @@
-# ls-js-1-web
-ls-js-1-web
+# LoftSchool JS project #1 - Friends filter
+
